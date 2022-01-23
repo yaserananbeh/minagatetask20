@@ -1,0 +1,10 @@
+.userCardMainContainer img{
+width: 100%;
+}
+.userCardMainContainer {
+  background-color: rgb(194, 194, 194);
+  margin: 0.5rem;
+  padding: 0.5rem;
+
+  display: flex;
+}

@@ -1,0 +1,7 @@
+.dashboardMainContainer{
+  margin: 1rem;
+}
+
+.dashboardMainContainer .new-row>div{
+  border: 1px solid gray;
+}
